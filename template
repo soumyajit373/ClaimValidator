@@ -1,0 +1,10 @@
+Hi {1},
+
+Your claim {2} is due for payment.
+Amount to be paid: {3}
+Due Date: {4}
+Amount Remaining: {5}
+
+
+Thanks And Regards,
+Bot

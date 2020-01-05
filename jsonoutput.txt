@@ -1,0 +1,26 @@
+[
+  {
+    "slNo": 802,
+    "clmId": 11111,
+    "mbrId": 1,
+    "mbrName": "Soumyajit",
+    "amtToBePaid": 100.5,
+    "amtRem": 50.5,
+    "totAmt": 151.0,
+    "email": "soumyadas@deloitte.com",
+    "dueDt": "2019-10-29T23:55:44+05:30",
+    "claimSuspFlag": false
+  },
+  {
+    "slNo": 803,
+    "clmId": 22222,
+    "mbrId": 2,
+    "mbrName": "Soumava",
+    "amtToBePaid": 100.5,
+    "amtRem": 50.5,
+    "totAmt": 151.0,
+    "email": "soumyajit34@gmail.com",
+    "dueDt": "2019-10-29T23:55:44+05:30",
+    "claimSuspFlag": true
+  }
+]
